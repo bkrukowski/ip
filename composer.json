@@ -27,6 +27,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "@stable",
-        "doctrine/dbal": "~2.3"
+        "doctrine/dbal": "~2.3",
+        "symfony/console": "^2.8|^3.0"
     }
 }
